@@ -1,8 +1,8 @@
 ![greetings](https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif)
 
 
-<h1 align="center">Hi 👋, I'm Jose Mula Morales</h1>
-<h3 align="center">Dynamic FrontEnd Developer dedicated to contribute in a highly collaborative work environment, finding solutions and determining customer satisfaction.</h3>
+<h1 align="center">Hi 👋, I'm JoseMMorales</h1>
+<h3 align="center">Dynamic and passionate FrontEnd Developer</h3>
 
 <!--
 **JoseMMorales/JoseMMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,20 +72,18 @@
 
 </br>
 
-<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseMMorales&show_icons=true&locale=en&layout=compact" alt="JoseMMorales" />
-</div>
 
 </br>
 
 ## Connect with me  
 <div align="right">
-<a href="https://github.com/JoseMMorales" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="www.linkedin.com/in/josemula" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <a href="https://github.com/JoseMMorales" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="www.linkedin.com/in/josemula" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 </div>  
 
 
