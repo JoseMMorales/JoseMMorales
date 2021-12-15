@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Diego Pagini</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 <!--
 **JoseMMorales/JoseMMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
