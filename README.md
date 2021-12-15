@@ -1,6 +1,8 @@
-
-<h1 align="center">Hi 👋, I'm Diego Pagini</h1>
-<h3 align="center">A passionate frontend developer</h3>
+![greetings](https://user-images.githubusercontent.com/43299285/146219107-5611b99c-cfd6-4231-814b-22d97303bb85.gif)
+<div align="center">
+  Hi 👋, I'm Jose Mula Morales
+</div>
+<h3 align="center">I am a dinamicapassionate frontend developer</h3>
 
 <!--
 **JoseMMorales/JoseMMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
