@@ -67,7 +67,7 @@
     <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=139&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=1a3dea" alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" " alt="xd" width="40" height="40"/> 
   </a>  
 </p>
 
