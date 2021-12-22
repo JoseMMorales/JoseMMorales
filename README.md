@@ -21,13 +21,13 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://itblogsogeti.files.wordpress.com/2018/04/mundo-ideal-boostrap4.png" alt="bootstrap" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfkuNw-ZG68fzksl4AVpANGJ1-ue2CBdpcA&usqp=CAU" alt="css3" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank"> 
+  <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://postman.com" target="_blank"> 
@@ -42,26 +42,32 @@
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://icongr.am/devicon/doctrine-original-wordmark.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+  <a href="hhttps://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html" target="_blank"> 
+    <img src="https://icongr.am/devicon/doctrine-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+  <a href="https://jquery.com/" target="_blank"> 
+    <img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+  <a href="https://about.gitlab.com/" target="_blank"> 
     <img src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+  <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
-   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+   <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
-   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+   <a href="https://symfony.com/" target="_blank"> 
     <img src="https://icongr.am/devicon/symfony-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
-   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=148&color=currentColor" alt="xd" width="40" height="40"/> 
+   <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+  </a>  
+   <a href="https://www.npmjs.com/" target="_blank"> 
+    <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=139&color=currentColor" alt="xd" width="40" height="40"/> 
+  </a>  
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=1a3dea" alt="xd" width="40" height="40"/> 
   </a>  
 </p>
 
