@@ -75,9 +75,11 @@
 </p>
 
 </br>
+  <div align= "center">
   
   ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMMorales&layout=compact&langs_count=8&hide_border=false&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
   
+  </div>
 </br>
 
 ## Connect with me  
