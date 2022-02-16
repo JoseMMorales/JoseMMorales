@@ -1,12 +1,12 @@
 ![greetings](https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif)
 
 <h1 align="center">Hi 👋, I'm JoseMMorales</h1>
-<h3 align="center">Dynamic and passionate FrontEnd Developer</h3>
+<h3 align="center">Dynamic and passionate Software Developer</h3>
 
 </br>
 
 - 🔭 I’m currently working on [Angular and ReactJs projects](https://github.com/JoseMMorales)
-- 🌱 I’m currently learning <b>Angular, RxJs, TypeScript</b>
+- 🌱 I’m currently learning <b>Angular, RxJs, TypeScript, Symfony</b>
 - 👯 I’m looking to collaborate on cool projects to change people's life
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/josemula)
 - ⚡ Fun fact: <b>I do love problem solving, sharing ideas and pair programming</b>
