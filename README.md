@@ -72,9 +72,6 @@
   <a href="https://rxjs.dev/" target="_blank"> 
     <img src="https://iconape.com/wp-content/files/fm/91325/svg/rxjs-1.svg" " alt="xd" width="40" height="40"/> 
   </a>    
-  <a href="https://rxjs.dev/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
-  </a>    
 </p>
 
 </br>
