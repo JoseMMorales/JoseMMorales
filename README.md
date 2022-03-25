@@ -28,7 +28,7 @@
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </a> 
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
