@@ -6,7 +6,7 @@
 </br>
 
 - 🔭 I’m currently working on [Angular and ReactJs projects](https://github.com/JoseMMorales)
-- 🌱 I’m currently learning <b>Angular, RxJs, TypeScript, Symfony</b>
+- 🌱 I’m currently learning <b>Angular, RxJs, TypeScript, ReactJS</b>
 - 👯 I’m looking to collaborate on cool projects to change people's life
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/josemula)
 - ⚡ Fun fact: <b>I do love problem solving, sharing ideas and pair programming</b>
