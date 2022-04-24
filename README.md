@@ -67,14 +67,15 @@
     <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=139&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" " alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="xd" width="40" height="40"/> 
   </a>  
   <a href="https://rxjs.dev/" target="_blank"> 
-    <img src="https://iconape.com/wp-content/files/fm/91325/svg/rxjs-1.svg" " alt="xd" width="40" height="40"/> 
+    <img src="https://iconape.com/wp-content/files/fm/91325/svg/rxjs-1.svg" alt="xd" width="40" height="40"/> 
   </a>  
-   </a>  
   <a href="https://www.sourcetreeapp.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" " alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="xd" width="40" height="40"/> 
+  </a>                                                                                                                       <a href="https://jasmine.github.io/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="xd" width="40" height="40"/> 
   </a>
 </p>
 
