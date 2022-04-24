@@ -19,7 +19,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angularjs" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://itblogsogeti.files.wordpress.com/2018/04/mundo-ideal-boostrap4.png" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
     <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> 
