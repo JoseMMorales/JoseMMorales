@@ -6,7 +6,7 @@
 </br>
 
 - 🔭 I’m currently working on [Angular and ReactJs projects](https://github.com/JoseMMorales)
-- 🌱 I’m currently learning <b>Angular, RxJs, TypeScript, Jasmine</b>
+- 🌱 I’m currently learning <b>Angular, RxJs, TypeScript, Jasmine, ReactJS</b>
 - 👯 I’m looking to collaborate on cool projects to change people's life
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/josemula)
 - ⚡ Fun fact: <b>I do love problem solving, sharing ideas and pair programming</b>
@@ -19,10 +19,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angularjs" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> 
@@ -46,10 +46,10 @@
     <img src="https://icongr.am/devicon/doctrine-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>
   <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="xd" width="40" height="40"/> 
   </a> 
   <a href="https://about.gitlab.com/" target="_blank"> 
-    <img src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="xd" width="40" height="40"/> 
   </a>  
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
@@ -61,13 +61,16 @@
     <img src="https://icongr.am/devicon/symfony-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
    <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="xd" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.atlassian.com/software/bitbucket/bundle/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="xd" width="40" height="40"/> 
   </a>  
    <a href="https://www.npmjs.com/" target="_blank"> 
     <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=139&color=currentColor" alt="xd" width="40" height="40"/> 
   </a>  
   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="xd" width="40" height="40"/> 
   </a>  
   <a href="https://rxjs.dev/" target="_blank"> 
     <img src="https://iconape.com/wp-content/files/fm/91325/svg/rxjs-1.svg" alt="xd" width="40" height="40"/> 
@@ -78,7 +81,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" alt="xd" width="40" height="40"/> 
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="xd" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="xd" width="40" height="40"/> 
   </a>
 </p>
 
