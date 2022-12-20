@@ -87,6 +87,9 @@
    <a href="https://ionicframework.com/" target="_blank"> 
     <img src="https://icongr.am/devicon/ionic-original.svg" alt="xd" width="40" height="40"/> 
   </a>
+  <a href="https://www.capacitorjs.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="xd" height="40" />    
+  </a>
 </p>
 
 </br>
