@@ -90,6 +90,9 @@
   <a href="https://www.capacitorjs.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="xd" height="40" />    
   </a>
+  <a href="https://karma-runner.github.io/latest/index.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="40" />
+  </a>
 </p>
 
 </br>
