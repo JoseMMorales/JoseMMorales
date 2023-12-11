@@ -96,6 +96,9 @@
   <a href="https://ngrx.io/" target="_blank">
     <img src="https://ngrx.io/assets/images/badge.svg" height="40"  width="40" />
   </a>
+  <a href="https://lesscss.org/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-less-18-1175145.png" height="40"  width="40" />
+  </a>
 </p>
 
 </br>
