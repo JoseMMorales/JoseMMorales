@@ -88,13 +88,13 @@
     <img src="https://icongr.am/devicon/ionic-original.svg" alt="xd" width="40" height="40"/> 
   </a>
   <a href="https://www.capacitorjs.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="xd" height="40" />    
+    <img src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="xd"  width="40" height="40" />    
   </a>
   <a href="https://karma-runner.github.io/latest/index.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" width="40" height="40" />
   </a>
   <a href="https://ngrx.io/" target="_blank">
-    <img src="https://repository-images.githubusercontent.com/322861487/c2838080-43e2-11eb-8016-9efa387786c8" height="40" />
+    <img src="https://ngrx.io/assets/images/badge.svg" height="40"  width="40" />
   </a>
 </p>
 
